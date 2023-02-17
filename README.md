@@ -11,8 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Neste projeto fiz um relógio digital dinâmico.
-
+Este projeto é relógio digital dinâmico que exibe a hora atual por meio de números digitais em constante atualização.
 
 ## 🔖 Layout
 
