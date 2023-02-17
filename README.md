@@ -1,4 +1,4 @@
-#<h1 align="center"> Relógio Digital</h1>
+<h1 align="center"> Relógio Digital</h1>
 
 ![image](https://user-images.githubusercontent.com/100106600/219488458-e0c6a629-d895-4156-9876-0a316e757f3b.png)
 
