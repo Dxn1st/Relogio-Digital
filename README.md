@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto é relógio dinâmico que exibe a hora atual por meio de números digitais em constante atualização.
+Este projeto é um relógio dinâmico que exibe a hora atual por meio de números digitais em constante atualização.
 
 ## 🔖 Layout
 
